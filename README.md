@@ -12,7 +12,6 @@ Identificar factores criticos de abandono y proponer estrategias basadas en dato
 * **Lenguaje**: Python 3.x
 * **Librerias**: Pandas, Matplotlib, Seaborn
 * **Entorno**: Google Colab
-* **Hardware de Procesamiento**: AMD Ryzen 7 8700F / 16GB RAM DDR5
 
 ## Principales Hallazgos
 * **Contratos**: Los clientes con planes "Mes a Mes" representan el mayor volumen de fugas.
